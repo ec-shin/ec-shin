@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Java,Spring)
-![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,Java,Sprin)
+![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,Java,Spring)
