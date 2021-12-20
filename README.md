@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Top Stack](https://widget.realdeveloper.pro/api/top?stack=JavaScript,Java,Spring)
+![Top Stack](https://widget.realdeveloper.pro/api/top?stack=Java,JavaScript,Spring)
 ![Badge](https://widget.realdeveloper.pro/api/badge?title=Languages&badges=JavaScript,Java,Spring)
